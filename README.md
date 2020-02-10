@@ -1,6 +1,6 @@
 # Anaconda-Configuration
 Kumpulan syntax konfigurasi anaconda install-uninstall-upgrade etc
-Platform Windows 10
+- [x] Platform Windows 10
 
 Install TorchText:
 ~~~
