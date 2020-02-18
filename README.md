@@ -19,6 +19,7 @@ Install virtualenv, jika belum ada (*anaconda prompt*)
 pip install virtualenv
 ~~~
 Tahap 2, install Tensorflow (*anaconda prompt*)
+Referensi: Instalasi [Tensorflow](https://www.tensorflow.org/install/pip).
 ~~~
 pip install tensorflow
 ~~~
