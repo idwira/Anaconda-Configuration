@@ -1,8 +1,9 @@
 # Anaconda-Configuration
 Kumpulan syntax konfigurasi anaconda install-uninstall-upgrade etc
 - [x] Platform Windows 10
+- [x] X64 - 64 Bit
 
-**Install Keras:**
+# **Install Keras:**
 
 **Tahap 1**, periksa apakah python, pip dan virtualenv sudah terinstall, eksekusi masing-masing (*anaconda prompt*):
 ~~~
