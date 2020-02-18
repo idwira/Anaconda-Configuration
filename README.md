@@ -8,5 +8,14 @@ conda install -c pytorch torchtext
 ~~~
 Install Keras:
 
-1. Install virtualenv
-~~~pip install virtualenv~~~
+Tahap 1, periksa apakah python, pip dan virtualenv sudah terinstall
+~~~
+python --version
+pip --version
+virtualenv --version
+~~~
+
+Install virtualenv
+~~~
+pip install virtualenv
+~~~
