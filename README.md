@@ -14,11 +14,11 @@ python --version
 pip --version
 virtualenv --version
 ~~~
-Upgrade pip ke versi terbaru
+Upgrade pip ke versi terbaru (anaconda prompt)
 ~~~
 python -m pip install --upgrade pip
 ~~~
-Install virtualenv (jika belum ada)
+Install virtualenv, jika belum ada (anaconda prompt)
 ~~~
 pip install virtualenv
 ~~~
