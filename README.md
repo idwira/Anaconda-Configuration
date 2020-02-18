@@ -41,6 +41,10 @@ pip install keras
 
 # **Modul-modul lain sesuai kebutuhan (antara lain):**
 
+Update Anaconda (*anaconda prompt)
+~~~
+conda update anaconda
+~~~
 Install TorchText (*anaconda prompt*):
 ~~~
 conda install -c pytorch torchtext
