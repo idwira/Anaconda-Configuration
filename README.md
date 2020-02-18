@@ -43,7 +43,7 @@ pip install keras
 # Install CUDA (untuk NVIDIA GPU)
 
 1. Install [CUDA Toolkit](https://developer.nvidia.com/cuda-downloads)
-2. Test
+2. Install [CuDNN](https://docs.nvidia.com/deeplearning/sdk/cudnn-install/index.html)
 
 # **Modul-modul lain sesuai kebutuhan (antara lain):**
 
