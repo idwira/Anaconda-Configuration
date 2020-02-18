@@ -15,6 +15,9 @@ pip --version
 virtualenv --version
 ~~~
 Upgrade pip ke versi terbaru
+~~~
+python -m pip install --upgrade pip
+~~~
 Install virtualenv (jika belum ada)
 ~~~
 pip install virtualenv
