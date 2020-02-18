@@ -1,7 +1,7 @@
 # Anaconda-Configuration
 Kumpulan syntax konfigurasi anaconda install-uninstall-upgrade etc
 - [x] Platform Windows 10
-- [x] X64 - 64 Bit
+- [x] X64 - 64bit
 
 # **Install Keras:**
 
@@ -38,7 +38,7 @@ tf.__version__
 pip install keras
 ~~~
 
-**Modul-modul lain sesuai kebutuhan (antara lain):**
+# **Modul-modul lain sesuai kebutuhan (antara lain):**
 
 Install TorchText (*anaconda prompt*):
 ~~~
