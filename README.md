@@ -24,7 +24,7 @@ Referensi: Instalasi [Tensorflow](https://www.tensorflow.org/install/pip).
 ~~~
 pip install tensorflow
 ~~~
-**Tahap 3**, install Microsoft Visual C++ Redistributable for Visual Studio (*anaconda prompt*)
+**Tahap 3**, install Microsoft Visual C++ Redistributable for Visual Studio (*anaconda prompt*).
 Download installer di [Visual Studio Microsoft](https://visualstudio.microsoft.com/downloads/).
 
 **Modul-modul lain sesuai kebutuhan (antara lain):**
