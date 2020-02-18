@@ -40,6 +40,11 @@ tf.__version__
 pip install keras
 ~~~
 
+# Install CUDA (untuk NVIDIA GPU)
+
+1. Install [CUDA Toolkit](https://developer.nvidia.com/cuda-downloads)
+2. Test
+
 # **Modul-modul lain sesuai kebutuhan (antara lain):**
 
 Update Anaconda (*anaconda prompt*)
