@@ -4,6 +4,7 @@ Kumpulan syntax konfigurasi anaconda install-uninstall-upgrade etc
 - [x] X64 - 64bit
 
 # **Install Keras:**
+Referensi: [Keras.io](https://keras.io/) 
 
 **Tahap 1**, periksa apakah python, pip dan virtualenv sudah terinstall, eksekusi masing-masing (*anaconda prompt*):
 ~~~
