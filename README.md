@@ -2,10 +2,6 @@
 Kumpulan syntax konfigurasi anaconda install-uninstall-upgrade etc
 - [x] Platform Windows 10
 
-Install TorchText:
-~~~
-conda install -c pytorch torchtext
-~~~
 **Install Keras:**
 
 Tahap 1, periksa apakah python, pip dan virtualenv sudah terinstall, eksekusi masing-masing (*anaconda prompt*):
@@ -25,4 +21,10 @@ pip install virtualenv
 Tahap 2, install Tensorflow (*anaconda prompt*)
 ~~~
 pip install tensorflow
+~~~
+**Modul-modul lain sesuai kebutuhan (antara lain):**
+
+Install TorchText (*anaconda prompt*):
+~~~
+conda install -c pytorch torchtext
 ~~~
