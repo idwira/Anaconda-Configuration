@@ -6,7 +6,7 @@ Install TorchText:
 ~~~
 conda install -c pytorch torchtext
 ~~~
-Install Keras:
+**Install Keras:**
 
 Tahap 1, periksa apakah python, pip dan virtualenv sudah terinstall, eksekusi masing-masing (anaconda prompt):
 ~~~
@@ -14,7 +14,9 @@ python --version
 pip --version
 virtualenv --version
 ~~~
-Install virtualenv
+Upgrade pip ke versi terbaru
+Install virtualenv (jika belum ada)
 ~~~
 pip install virtualenv
 ~~~
+Tahap 2,
