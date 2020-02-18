@@ -4,7 +4,7 @@ Kumpulan syntax konfigurasi anaconda install-uninstall-upgrade etc
 
 **Install Keras:**
 
-Tahap 1, periksa apakah python, pip dan virtualenv sudah terinstall, eksekusi masing-masing (*anaconda prompt*):
+**Tahap 1**, periksa apakah python, pip dan virtualenv sudah terinstall, eksekusi masing-masing (*anaconda prompt*):
 ~~~
 python --version
 pip --version
@@ -18,11 +18,14 @@ Install virtualenv, jika belum ada (*anaconda prompt*)
 ~~~
 pip install virtualenv
 ~~~
-Tahap 2, install Tensorflow (*anaconda prompt*)
+**Tahap 2**, install Tensorflow (*anaconda prompt*)
 Referensi: Instalasi [Tensorflow](https://www.tensorflow.org/install/pip).
 ~~~
 pip install tensorflow
 ~~~
+**Tahap 3**, install Microsoft Visual C++ (*anaconda prompt*)
+Download installer di [Visual Studio Microsoft](https://visualstudio.microsoft.com/downloads/).
+
 **Modul-modul lain sesuai kebutuhan (antara lain):**
 
 Install TorchText (*anaconda prompt*):
