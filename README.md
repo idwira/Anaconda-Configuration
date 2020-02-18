@@ -6,3 +6,7 @@ Install TorchText:
 ~~~
 conda install -c pytorch torchtext
 ~~~
+Install Keras:
+
+1. Install virtualenv
+~~~pip install virtualenv~~~
