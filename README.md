@@ -42,7 +42,7 @@ pip install keras
 
 # **Modul-modul lain sesuai kebutuhan (antara lain):**
 
-Update Anaconda (*anaconda prompt)
+Update Anaconda (*anaconda prompt*)
 ~~~
 conda update anaconda
 ~~~
