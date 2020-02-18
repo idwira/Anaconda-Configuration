@@ -33,9 +33,18 @@ import tensorflow as tf
 tf.__version__
 ~~~
 
+**Tahap 5**, install Keras (anaconda prompt)
+~~~
+pip install keras
+~~~
+
 **Modul-modul lain sesuai kebutuhan (antara lain):**
 
 Install TorchText (*anaconda prompt*):
 ~~~
 conda install -c pytorch torchtext
+~~~
+Install pydot (*anaconda prompt*)
+~~~
+pip install pydot
 ~~~
