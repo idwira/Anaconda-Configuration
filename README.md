@@ -2,6 +2,7 @@
 Kumpulan syntax konfigurasi anaconda install-uninstall-upgrade etc
 - [x] Platform Windows 10
 - [x] X64 - 64bit
+- [x] Connected to the Internet, not using a proxy
 
 # **Install Keras:**
 Referensi: [Keras.io](https://keras.io/) 
