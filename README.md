@@ -34,7 +34,7 @@ Referensi: Instalasi [Tensorflow](https://www.tensorflow.org/install/pip).
 ~~~
 pip install tensorflow
 ~~~
-Jika gagal, coba tambahkan --user sebagai berikut:
+Jika gagal, coba tambahkan "--user" sebagai berikut:
 ~~~
 pip install --user tensorflow
 ~~~
