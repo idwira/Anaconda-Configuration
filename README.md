@@ -8,6 +8,10 @@ Kumpulan syntax konfigurasi anaconda install-uninstall-upgrade etc
 ~~~
 conda info
 ~~~
+Melihat list paket-paket (packages)
+~~~
+conda list
+~~~
 Referensi: [Managing Packages](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-pkgs.html#viewing-a-list-of-installed-packages)
 
 # **Install Keras:**
@@ -72,11 +76,6 @@ python
 2. Install [CuDNN](https://docs.nvidia.com/deeplearning/sdk/cudnn-install/index.html)
 
 # **Modul-modul lain sesuai kebutuhan (antara lain):**
-
-Melihat list paket-paket (packages)
-~~~
-conda list
-~~~
 
 Update Anaconda (*anaconda prompt*)
 ~~~
