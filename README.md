@@ -20,7 +20,7 @@ python -m pip install --upgrade pip
 Jika gagal, atau pip terhapus lakukan dengan:
 1. Download [get-pip.py](https://bootstrap.pypa.io/get-pip.py)
 2. Paste file get-pip.py ke folder kerja anaconda, misal C:\Users\nama_user (nama_user bisa "admin" atau sesuai nama user di PC)
-3.Pada anaconda prompt jalankan:
+3. Pada anaconda prompt jalankan:
 ~~~
 python get-pip.py --user
 ~~~
