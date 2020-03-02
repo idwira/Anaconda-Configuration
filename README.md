@@ -44,8 +44,8 @@ pip install --user tensorflow
 **Tahap 4**, periksa apakah tensorflow sudah terinstall (*anaconda prompt*, masuk ke python >>)
 ~~~
 python
-import tensorflow as tf
-tf.__version__
+>> import tensorflow as tf
+>> tf.__version__
 ~~~
 
 **Tahap 5**, install Keras (*anaconda prompt*)
@@ -55,7 +55,7 @@ pip install keras
 
 **Tahap 6**, periksa apakah keras sudah terinstall (*anaconda prompt*, masuk ke python >>)
 ~~~
->> python
+python
 >> import keras
 >> keras.__version__
 ~~~
