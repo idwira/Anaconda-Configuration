@@ -4,6 +4,11 @@ Kumpulan syntax konfigurasi anaconda install-uninstall-upgrade etc
 - [x] X64 - 64bit
 - [x] Connected to the Internet, not using a proxy
 
+# **Find your installation’s package cache directory: (*anaconda prompt*)**
+~~~
+conda info
+~~~
+
 # **Install Keras:**
 Referensi: [Keras.io](https://keras.io/) 
 
@@ -66,6 +71,11 @@ python
 2. Install [CuDNN](https://docs.nvidia.com/deeplearning/sdk/cudnn-install/index.html)
 
 # **Modul-modul lain sesuai kebutuhan (antara lain):**
+
+Melihat list paket-paket (packages)
+~~~
+conda list
+~~~
 
 Update Anaconda (*anaconda prompt*)
 ~~~
