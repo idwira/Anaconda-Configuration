@@ -53,6 +53,13 @@ tf.__version__
 pip install keras
 ~~~
 
+**Tahap 6**, periksa apakah keras sudah terinstall (*anaconda prompt*, masuk ke python >>)
+~~~
+>> python
+>> import keras
+>> keras.__version__
+~~~
+
 # Install CUDA (untuk NVIDIA GPU)
 
 1. Install [CUDA Toolkit](https://developer.nvidia.com/cuda-downloads)
