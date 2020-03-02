@@ -34,6 +34,11 @@ Referensi: Instalasi [Tensorflow](https://www.tensorflow.org/install/pip).
 ~~~
 pip install tensorflow
 ~~~
+Jika gagal, coba tambahkan --user sebagai berikut:
+~~~
+pip install --user tensorflow
+~~~
+
 **Tahap 3**, install Microsoft Visual C++ Redistributable for Visual Studio 2019 (or latest year). Download installer di [Visual Studio Microsoft](https://visualstudio.microsoft.com/downloads/). *Other tools and framework* section
 
 **Tahap 4**, periksa apakah tensorflow sudah terinstall (*anaconda prompt*, masuk ke python >>)
