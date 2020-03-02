@@ -4,10 +4,11 @@ Kumpulan syntax konfigurasi anaconda install-uninstall-upgrade etc
 - [x] X64 - 64bit
 - [x] Connected to the Internet, not using a proxy
 
-# **Find your installation’s package cache directory: (*anaconda prompt*)**
+**Find your installation’s package cache directory: (*anaconda prompt*)**
 ~~~
 conda info
 ~~~
+Referensi: [Managing Packages](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-pkgs.html#viewing-a-list-of-installed-packages)
 
 # **Install Keras:**
 Referensi: [Keras.io](https://keras.io/) 
