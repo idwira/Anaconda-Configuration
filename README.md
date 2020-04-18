@@ -89,7 +89,7 @@ Install Pydot (*anaconda prompt*)
 ~~~
 pip install pydot
 ~~~
-Install spaCy (*anaconda prompt*), core large size around 850 mb
+Install spaCy (*anaconda prompt*), core large (lg) size around 850 mb
 ~~~
 pip install -U spacy
 pip install -U spacy-lookups-data
