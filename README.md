@@ -85,7 +85,13 @@ Install TorchText (*anaconda prompt*):
 ~~~
 conda install -c pytorch torchtext
 ~~~
-Install pydot (*anaconda prompt*)
+Install Pydot (*anaconda prompt*)
 ~~~
 pip install pydot
+~~~
+Install spaCy (*anaconda prompt*)
+~~~
+pip install -U spacy
+pip install -U spacy-lookups-data
+python -m spacy download en_core_web_lg
 ~~~
