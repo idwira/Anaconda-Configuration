@@ -85,7 +85,7 @@ Install Popular NLTK Data (*anaconda prompt*)
 ~~~
 python -m nltk.downloader popular
 ~~~
-Download [NLTK Data Lainnya](http://www.nltk.org/data.html) (*anaconda prompt*, masuk ke python >>)
+Install [NLTK Data Lainnya](http://www.nltk.org/data.html) (*anaconda prompt*, masuk ke python >>)
 ~~~
 python
 >> import nltk
