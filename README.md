@@ -81,6 +81,11 @@ Update Anaconda (*anaconda prompt*)
 ~~~
 conda update anaconda
 ~~~
+Install NLTK Data (Popular)
+Link [More NLTK Data](http://www.nltk.org/data.html)
+~~~
+python -m nltk.downloader popular
+~~~
 Install TorchText (*anaconda prompt*):
 ~~~
 conda install -c pytorch torchtext
