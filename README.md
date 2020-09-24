@@ -14,7 +14,7 @@ conda list
 ~~~
 Referensi: [Managing Packages](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-pkgs.html#viewing-a-list-of-installed-packages)
 
-Melihat Current Working Directory (CWD) (*anaconda prompt*, masuk ke python >>)
+Melihat Current Working Directory (CWD) (*anaconda prompt*, masuk ke python >>>, Ctrl-Z plus Return to exit)
 ~~~
 >>> import os
 >>> os.getcwd()
@@ -60,8 +60,8 @@ pip install --user tensorflow
 **Tahap 4**, periksa apakah tensorflow sudah terinstall (*anaconda prompt*, masuk ke python >>)
 ~~~
 python
->> import tensorflow as tf
->> tf.__version__
+>>> import tensorflow as tf
+>>> tf.__version__
 ~~~
 
 **Tahap 5**, install Keras (*anaconda prompt*)
@@ -72,8 +72,8 @@ pip install keras
 **Tahap 6**, periksa apakah keras sudah terinstall (*anaconda prompt*, masuk ke python >>)
 ~~~
 python
->> import keras
->> keras.__version__
+>>> import keras
+>>> keras.__version__
 ~~~
 
 # Install CUDA (untuk NVIDIA GPU)
