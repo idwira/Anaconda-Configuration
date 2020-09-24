@@ -112,12 +112,11 @@ pip install -U spacy
 pip install -U spacy-lookups-data
 python -m spacy download en_core_web_lg
 ~~~
-OpenCV
 Install OpenCV, main modules packages (*anaconda prompt*)
 ~~~
 pip install opencv-python
 ~~~
-atau Install OpenCV, contains both main modules and contrib/extra modules (*anaconda prompt*)
+or OpenCV contains both main modules and contrib/extra modules (*anaconda prompt*)
 ~~~
 pip install opencv-contrib-python
 ~~~
