@@ -16,6 +16,7 @@ Referensi: [Managing Packages](https://docs.conda.io/projects/conda/en/latest/us
 
 Melihat Current Working Directory (CWD) (*anaconda prompt*, masuk ke python >>>, Ctrl-Z plus Return to exit)
 ~~~
+python
 >>> import os
 >>> os.getcwd()
 ~~~
