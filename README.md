@@ -14,7 +14,7 @@ conda list
 ~~~
 Referensi: [Managing Packages](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-pkgs.html#viewing-a-list-of-installed-packages)
 
-Melihat Current Working Directory (CWD) ((*anaconda prompt*, masuk ke python >>)
+Melihat Current Working Directory (CWD) (*anaconda prompt*, masuk ke python >>)
 ~~~
 >>> import os
 >>> os.getcwd()
