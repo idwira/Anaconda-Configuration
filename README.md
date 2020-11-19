@@ -15,8 +15,7 @@ conda list
 Referensi: [Managing Packages](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-pkgs.html#viewing-a-list-of-installed-packages)
 
 Melihat Current Working Directory (CWD) (*anaconda prompt*, masuk ke python >>>, Ctrl-Z plus Return to exit)
-~~~
-python
+~~~ python
 >>> import os
 >>> os.getcwd()
 ~~~
@@ -59,8 +58,7 @@ pip install --user tensorflow
 **Tahap 3**, install Microsoft Visual C++ Redistributable for Visual Studio 2019 (or latest year). Download installer di [Visual Studio Microsoft](https://visualstudio.microsoft.com/downloads/). *Other tools and framework* section
 
 **Tahap 4**, periksa apakah tensorflow sudah terinstall (*anaconda prompt*, masuk ke python >>)
-~~~
-python
+~~~ python
 >>> import tensorflow as tf
 >>> tf.__version__
 ~~~
@@ -71,8 +69,7 @@ pip install keras
 ~~~
 
 **Tahap 6**, periksa apakah keras sudah terinstall (*anaconda prompt*, masuk ke python >>)
-~~~
-python
+~~~ python
 >>> import keras
 >>> keras.__version__
 ~~~
@@ -93,8 +90,7 @@ Install Popular NLTK Data (*anaconda prompt*)
 python -m nltk.downloader popular
 ~~~
 Install [NLTK Data Lainnya](http://www.nltk.org/data.html) (*anaconda prompt*, masuk ke python >>)
-~~~
-python
+~~~ python
 >> import nltk
 >> nltk.download()
 ~~~
