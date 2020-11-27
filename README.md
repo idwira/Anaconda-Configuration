@@ -42,7 +42,7 @@ python get-pip.py --user
 ~~~
 
 Install virtualenv, jika belum ada (*anaconda prompt*)
-~~~
+~~~ cmd
 pip install virtualenv
 ~~~
 **Tahap 2**, install Tensorflow (*anaconda prompt*)
@@ -82,7 +82,7 @@ pip install keras
 # **Modul-modul lain sesuai kebutuhan (antara lain):**
 
 Update Anaconda (*anaconda prompt*)
-~~~
+~~~ cmd
 conda update anaconda
 ~~~
 Install Popular NLTK Data (*anaconda prompt*)
